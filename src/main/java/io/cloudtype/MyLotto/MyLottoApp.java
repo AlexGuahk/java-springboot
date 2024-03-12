@@ -1,13 +1,13 @@
-package io.cloudtype.Demo;
+package io.cloudtype.MyLotto;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class MyLottoApp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(MyLottoApp.class, args);
 	}
 
 }
