@@ -15,7 +15,7 @@ public class Lotto {
 
     @Override
     public String toString() {
-        return "LottoNumber[" + lottoNumber + "]";
+        return "로또번호 " + lottoNumber;
     }
     
     public Lotto sort(){
